@@ -24,7 +24,6 @@ const start = () =>{
         {command: '/game', description: 'Игра угадай цифру'}
 
     ])
- 
 
     bot.on('message',async msg =>{
         const text = msg.text
