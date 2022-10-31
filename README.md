@@ -3,10 +3,7 @@
 ![start](https://user-images.githubusercontent.com/92297776/199062397-0af2290a-28ab-4ce4-ac64-54734029bc36.gif)
 
 
-<p align="center">
-  <img src={![game](https://user-images.githubusercontent.com/92297776/199062732-2dc36afe-92aa-42b2-bd9b-b78df12dd37f.gif)
-} alt="home" />
-</p>
+![game](https://user-images.githubusercontent.com/92297776/199062732-2dc36afe-92aa-42b2-bd9b-b78df12dd37f.gif)
 
 ## Стек который я использовал:
 
