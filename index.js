@@ -31,6 +31,7 @@ const start = () =>{
         const chatId = msg.chat.id
         
         if(text === '/start'){
+          await bot.sendSticker(chatId, 'https://tlgrm.ru/_/stickers/ea5/382/ea53826d-c192-376a-b766-e5abc535f1c9/7.webp')
           return bot.sendMessage(chatId, 'Добро пожаловать, я бот которого создал начинающий программист')
         }
         if(text === '/info'){
