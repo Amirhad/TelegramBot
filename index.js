@@ -51,7 +51,7 @@ const start = () =>{
         if(data == chats[chatId]){
             await  bot.sendMessage(chatId, `поздравляю ты угадал цифру ${chats[chatId]}` , againOtions)
         }else{
-            await  bot.sendMessage(chatId, `Ксожалению ты не угадал, бот загадал цифру ${chats[chatId]}`, againOtions)
+            await  bot.sendMessage(chatId, `К сожалению ты не угадал, бот загадал цифру ${chats[chatId]}`, againOtions)
         }
         
    })
