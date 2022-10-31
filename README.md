@@ -5,7 +5,8 @@
 
 
 <p align="center">
-  <img src="game.gif" alt="home" />
+![game](https://user-images.githubusercontent.com/92297776/199062732-2dc36afe-92aa-42b2-bd9b-b78df12dd37f.gif)
+
 </p>
 
 ## Стек который я использовал:
