@@ -54,6 +54,7 @@ const start = () =>{
             await  bot.sendMessage(chatId, `Ксожалению ты не угадал, бот загадал цифру ${chats[chatId]}`, againOtions)
         }
         
-       })
+   })
+    
 }
 start()
