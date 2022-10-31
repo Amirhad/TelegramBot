@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Users\nix\Downloads\start.gif" alt="home" />
+  <img src="Users\nix\Desktop\start.gif" alt="home" />
 </p>
 
 
