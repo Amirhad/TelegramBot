@@ -1,16 +1,12 @@
 <h1 align="center"> AmirTvBot </h1>
 
+![start](https://user-images.githubusercontent.com/92297776/199062397-0af2290a-28ab-4ce4-ac64-54734029bc36.gif)
 
-
-<p align="center">
-  <img src="Users/nix/Desktop/start.gif" alt="home" />
-</p>
 
 
 <p align="center">
   <img src="game.gif" alt="home" />
 </p>
-![](game.gif)
 
 ## Стек который я использовал:
 
