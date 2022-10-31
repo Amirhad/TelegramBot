@@ -10,7 +10,7 @@
 <p align="center">
   <img src="game.gif" alt="home" />
 </p>
-
+![](game.gif)
 
 ## Стек который я использовал:
 
